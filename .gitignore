@@ -17,3 +17,16 @@ setup-tmp/
 .DS_Store
 *.pem
 npm-debug.log*
+
+# Next.js starter
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+/coverage
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
